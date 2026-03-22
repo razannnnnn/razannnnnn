@@ -27,5 +27,5 @@
 </details>
 
 <p align="center">
-![snake gif](https://github.com/razannnnnn/razannnnnn/blob/output/snake.svg)
+  <img alt="Snake eating contributions" src="https://github.com/razannnnnn/razannnnnn/blob/output/snake.svg" width="100%">
 </p>  
