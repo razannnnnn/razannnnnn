@@ -1,10 +1,8 @@
 # 🦈 Hello, I'm Razannn
 **`New Developer (Javascript, Express, Node.js)`**
 
-- 🔭 I Just Do My Hobby [Razanbot - Md](https://github.com/razannnnnn/Razanbot-Md)
 - 🌱 I’m currently learning *Javascript, CSS, Bootstrap*
-- 🤝 I’m looking for help with [Baileys - Library](https://github.com/razannnnnn/Baileys-Library)
-- 👨‍💻 My projects are available at [www.rivqi.my.id](https://www.rivqi.xyz)
+- 👨‍💻 My projects are available at [www.razan.web.id](https://www.razan.web.id)
 - 💬 Ask me about **Simple Javascript, HTML**
 - 📫 How to reach me **razzaan@protonmail.com**
 - ⚡ Fun fact **I a programers 😁**
