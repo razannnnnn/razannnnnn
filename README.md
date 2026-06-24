@@ -2,7 +2,7 @@
 **`New Developer (Javascript, Express, Node.js, Next.js, React, Tailwind)`**
 
 - 🌱 I’m currently learning *Javascript, React, CSS, Bootstrap, Tailwind*
-- 👨‍💻 My projects are available at [www.razan.web.id](https://www.razan.web.id)
+- 👨‍💻 My projects are available at [www.razn.my.id](https://www.razn.my.id)
 - 💬 Ask me about **Simple Javascript, HTML**
 - 📫 How to reach me **razzaan@protonmail.com**
 - ⚡ Fun fact **I a programers 😁**
